@@ -4,12 +4,3 @@
     width: 100%;
     box-shadow: 5px 5px 5px gray;
 }
-.note{
-    font-size: 17px;
-    color: honeydew;
-}
-canvas{
-    border:5px solid black;
-    border-radius: 7px;
-    box-shadow: 5px 5px 5px gray;
-}
